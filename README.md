@@ -13,7 +13,7 @@ For general advice on testing the ReactNative apps running using Expo using [Cyp
 First, let's add [Expo](https://docs.expo.io/guides/running-in-the-browser/) to this project to be able to work with the RN app in the browser. Follow the example in [bahmutov/react-native-to-expo](https://github.com/bahmutov/react-native-to-expo).
 
 ```text
-# match the React DOM version to the React version
+# match the React DOM version to the React version.
 $ npm i -D expo expo-cli react-native-web react-dom@17.0.1 babel-preset-expo
 + react-dom@17.0.1
 + react-native-web@0.17.0
